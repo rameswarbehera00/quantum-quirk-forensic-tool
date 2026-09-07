@@ -1,0 +1,22 @@
+
+
+```txt
+# Core Requirements
+opencv-python>=4.8.0
+ffmpeg-python>=0.2.0
+numpy>=1.24.0
+
+# GUI
+PyQt5>=5.15.0
+
+# Reporting
+reportlab>=4.0.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# Database
+sqlite3  # Built-in with Python
+
+# Utilities
+pyinstaller>=6.0.0  # For creating executable
